@@ -1,0 +1,14 @@
+h1 {
+color: green
+}
+#scheibe{
+width: 300px;
+position: absolute;
+}
+#scheibeinnen{
+width: 300px;
+position: absolute;
+}
+#Kontainer {
+  height: 300px;
+}
