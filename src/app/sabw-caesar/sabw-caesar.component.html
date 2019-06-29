@@ -1,6 +1,8 @@
-<div id="container">
+<input [(ngModel)]="zahl"  />
+<button (click)="dreheScheibe()">dreh!</button>
+<div id= "Kontainer">
   <img id="scheibe"
   src="https://pasoma.de/sabw/scheibegross.png"/>
-  <img id="scheibeinnen"
-  src="https://pasoma.de/sabw/scheibeklein2.png" />
-  </div>
+  <img id="scheibeinnen" [style.transform]=""
+  src="https://pasoma.de/sabw/scheibeklein2.png"/>
+</div>

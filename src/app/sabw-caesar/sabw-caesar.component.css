@@ -4,11 +4,16 @@ color: green
 #scheibe{
 width: 300px;
 position: absolute;
+
 }
 #scheibeinnen{
 width: 300px;
 position: absolute;
+transform: rotate(318.461538462deg);
 }
+/*transform:rotate(318,46deg)*/
+
+
 #Kontainer {
   height: 300px;
 }
