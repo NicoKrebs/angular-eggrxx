@@ -10,9 +10,10 @@ position: absolute;
 width: 300px;
 position: absolute;
 transform: rotate(318.461538462deg);
-}
-/*transform:rotate(318,46deg)*/
 
+/*transform:rotate(318,46deg)*/
+transition: all 2s ease-in-out;
+}
 
 #Kontainer {
   height: 300px;
